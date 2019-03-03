@@ -100,7 +100,7 @@
 (CW),Crimson Warlord,65K,Stable,OK RARE,28676186
 (LOE),Crimsonwrath, Lord of Entropy ,70K, STABLE, GOOD RARE,36839669
 (COTUH),Crown of the Undead Hoard,70K,STABLE,GOOD RARE,31046644
-(CWUAA),CW Ultimate: Amethyst Addiction,70K,OR HIGHER,OK RARE,188004500
+(CWUAA),CW Ultimate: Amethyst Addiction,70K,OR HIGHER,GOOD RARE,188004500
 (CWUEE),CW Ultimate: Emerald Entropy,65K,OR HIGHER,GOOD RARE,271015154
 (RQR),CW Ultimate: Rose Quartz Rebellion,80K,OR HIGHER,GOOD RARE,228449574
 (CWUSS),CW Ultimate: Sapphire Serenity,60K,Stable,OK RARE,188888052
@@ -118,27 +118,27 @@
 (Ivory Peri),Ivory Periastron,220K,OR HIGHER,GOOD RARE,108158379
 (KM),Knightmare,75K,OR HIGHER,GOOD RARE,25308748
 (LS),Linked Sword,120K,OR HIGHER,GOOD RARE,125013769
-(Hallows),Masked Hood of the All Hallows Warlock,95K,OR HIGHER,GOOD RARE,64560136
+(Hallows),Masked Hood of the All Hallows Warlock,95K,STABLE,GOOD RARE,64560136
 (Onyx),Onyx Immortal Sword,55K,Unstable,BAD RARE,2566015124
 (RFHS),Real Flaming Hot Stunnas,65K,STABLE,GOOD RARE,417458345
-(RICS),Real Ice Cold Stunnas,60K,OR HIGHER,GOOD RARE,100929295
+(RICS),Real Ice Cold Stfunnas,60K,OR HIGHER,GOOD RARE,100929295
 (RSB),Redspybot,115K,OR HIGHER,GOOD RARE,114385498
-(Scytheface),Scytheface: The Sharpest One,80K,OR HIGHER,GOOD RARE,102617707
+(Scytheface),Scytheface: The Sharpest One,80K,STABLE,GOOD RARE,102617707
 (SSK),Seeking Sea King,150K,OR HIGHER,GOOD RARE,61895706
-(SFOTH),SFOTH IV Crown of Fire,80K,UNSTABLE,OK RARE,173783297
+(SFOTH),SFOTH IV Crown of Fire,80K,STABLE,OK RARE,173783297
 (Epsilon),Spec Epsilon Biograft Energy Sword,100K,OR HIGHER,GOOD RARE,23727705
-(SA),Steampunk Aetherspectacles,65K,Stable,OK RARE,12908119
+(SA),Steampunk Aetherspectacles,65K,Stable,GOOD RARE,12908119
 (Steampunks),Steampunkoneer,60K,OR HIGHER,GOOD RARE,40893128
 (AGB),The Azure Gate Bridge,50K,OR HIGHER,GOOD RARE,22946161
 (BMV),The Bull Moose Vengeance,55K,OR HIGHER,GOOD RARE,35686056
-(WCUGG),WC Ultimates - Garnet Gratitude,85K,Stable,OK RARE,2566024668
+(Garnet),WC Ultimates - Garnet Gratitude,85K,Stable,OK RARE,2566024668
 (WF),Windforce,100K,OR HIGHER,GOOD RARE,77443704
 (Bastet),Bastet: The Cat Goddess,30K,OR HIGHER,OK RARE,55633111
-(Bling Face),Bling,40K,Stable,OK RARE,25975243
+(Bling Face),Bling,45K,Stable,OK RARE,25975243
 (CTH),Collision Top Hat,20K,Stable,OK RARE,158068251
 (Copper),Copper Steampunk Top Hat,30K,OR HIGHER,GOOD RARE,244160357
-(CG),Crazy Glasses,40K,OR HIGHER,GOOD RARE,16646369
-(Om Nom),Crown of Om Nom Nom,65K,OR HIGHER,GOOD RARE,21070350
+(CG),Crazy Glasses,40K,STABLE,GOOD RARE,16646369
+(Om Nom),Crown of Om Nom Nom,65K,STABLE,GOOD RARE,21070350
 (COT),Crown of Tones,40K,OR LOWER,BAD RARE,152173424
 (BOZY),Dark Cerulean Crown of Ozymandias,55K,OR HIGHER,GOOD RARE,13370505
 (DVS),Dual Venomshanks,50K,OR HIGHER,GOOD RARE,158069180
@@ -161,7 +161,6 @@
 (Monstars),Monstars Visor,15K,OR LOWER,BAD RARE,1086815
 (NVG),Night Vision Goggles,25K,OR HIGHER,GOOD RARE,1279018
 (OGW),Old Glory Wings,45K,Stable,OK RARE,2015363653
-(PIRV),Pirate Vision,30K,OR HIGHER,GOOD RARE,43704842
 (SWILLY),Sheriff Wilson,20K,OR HIGHER,GOOD RARE,62332732
 (SK),Sinister King,20K,OR HIGHER,GOOD RARE,40497339
 (Spec Beta),Spec Beta Biograft Energy Sword,50K,OR HIGHER,GOOD RARE,14876573
@@ -189,14 +188,14 @@
 (RB),Red Balloon,150K,OR HIGHER,OK RARE,27477255
 (Venom),Immortal Sword: Venom's Bite,130K,STABLE,OK RARE,638089422
 (8-Bit),8-Bit Immortal Sword: The Pixel Maker,30K,STABLE,OK RARE,2041982658
-(DWD),Dreamwalker's Dagger,40K,UNSTABLE,OK RARE,65079090
+(DWD),Dreamwalker's Dagger,30K,UNSTABLE,BAD RARE,65079090
 (GBT),Green Bow Tie,85K,OR HIGHER,GOOD RARE,16598513
 (NGCC),Neon Green Crazy Crown,50K,OR HIGHER,GOOD RARE,321346616
 (ROZY),Red Crown of Ozymandias,50K,OR HIGHER,GOOD RARE,9465511
 (REL),Red Erikson's Lament,50K,STABLE,GOOD RARE,44114667
 (Parallel),Parallel Universe Roman Empire Centurion Helmet,100K,OR HIGHER,GOOD RARE,12908164
-(Sean's),Uncle Sean's Top Hat,70K,OR HIGHER,GOOD RARE,23962538
-(WCUPDD),WC Ultimates: Pink Diamond Distraction,90K,OR HIGHER,GOOD RARE,315549204
+(Sean's),Uncle Sean's Top Hat,70K,STABLE,GOOD RARE,23962538
+(WCUPDD),WC Ultimates: Pink Diamond Distraction,95K,OR HIGHER,GOOD RARE,315549204
 (Lavender Egg),Brighteyes's Lavender Egg of Anticipation,25K,OR HIGHER,GOOD RARE,24485062
 (GPUPQ),Glorious Purple Party Queen,20K,STABLE,OK RARE,258184056
 (NPCC),Neon Purple Crazy Crown,35K,OR HIGHER,GOOD RARE,376805769
